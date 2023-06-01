@@ -7,9 +7,9 @@
         "baseUrl": "api.sandbox.ebay.com"
     },
     "PRODUCTION": {
-        "clientId": "seethaku-skumarav-PRD-813fa3adc-f0dd5fb8",
-        "clientSecret": "PRD-13fa3adcd9c5-1633-4234-8675-6688",
-        "devId": "b5487dad-2325-4954-aa09-52bb6490bc0c",
+        "clientId": "",
+        "clientSecret": "",
+        "devId": "",
         "redirectUri": "",
         "baseUrl": "api.ebay.com"
     },
